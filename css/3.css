@@ -37,6 +37,7 @@ label:nth-of-type(even) input {
 
 button {
   cursor: pointer;
+  margin-top: 15px; /* Espacio arriba del botón */
   border: 0;
   background-image: var(--gradient);
   padding: 0.75rem 4rem;
